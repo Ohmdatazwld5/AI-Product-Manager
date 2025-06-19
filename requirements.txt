@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain>=0.1.0
+groq
+chromadb
+sentence-transformers
+pydantic
+sqlite3
+nltk
+rouge
+langchain_community
+langchain
+langchain-groq
